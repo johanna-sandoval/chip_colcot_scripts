@@ -7,16 +7,16 @@ The present repository contains source code and guidelines for execution of impl
 -   [CHIP COLCOT
     scripts](#chip-colcot-scripts)
     -   [Clonal Hematopoiesis Sequencing Data
-        Processing](#clonal-hematopoiesis-sequencing-data-processing){#toc-clonal-hematopoiesis-sequencing-data-processing}
+        Processing](#clonal-hematopoiesis-sequencing-data-processing)
         -   [Clonal Hematopoiesis Genpipes
-            Pipeline](#clonal-hematopoiesis-genpipes-pipeline){#toc-clonal-hematopoiesis-genpipes-pipeline}
+            Pipeline](#clonal-hematopoiesis-genpipes-pipeline)
     -   [Variant calls and filtering
-        workflow](#variant-calls-and-filtering-workflow){#toc-variant-calls-and-filtering-workflow}
+        workflow](#variant-calls-and-filtering-workflow)
         -   [1 - Vardict](#vardict)
         -   [2 - Variant decompose and normalize using
-            vt](#variant-decompose-and-normalize-using-vt){#toc-variant-decompose-and-normalize-using-vt}
+            vt](#variant-decompose-and-normalize-using-vt)
         -   [3 - Variants annotations VEP and
-            Annovar](#variants-annotations-vep-and-annovar){#toc-variants-annotations-vep-and-annovar}
+            Annovar](#variants-annotations-vep-and-annovar)
         -   [4 - Chip filtering](#chip-filtering)
         -   [5 - Process
             variants](#process-variants)
